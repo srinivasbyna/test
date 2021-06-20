@@ -1,1 +1,5 @@
-employee setails
+employee details
+empid 
+name 
+address
+phone
